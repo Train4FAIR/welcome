@@ -3,6 +3,7 @@
 ----
 [The documentation is temporarily hosted on google drive, which could be accessed by this link.](https://docs.google.com/document/d/1PY6IlBWJ-RV6N6cOltWSAmetWqjUImMzjchHZsQa-Vw/edit?usp=sharing)
 
+####[See also: Showcase Video](https://vimeo.com/372065076)
 ---
 
 
